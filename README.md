@@ -1,6 +1,6 @@
 # IMDb Backend
 
-This is the backend for the IMDb application.
+This is the backend for the IMDb application. Database Url is given in the repo itself in server.js file
 
 ## Installation
 
